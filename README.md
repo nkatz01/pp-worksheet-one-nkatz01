@@ -1,4 +1,5 @@
 # Programming Paradigms - Worksheet One
+Author @nkatz01
 
 We will be completing some exercises on the <https://www.scala-exercises.org> site.
 
